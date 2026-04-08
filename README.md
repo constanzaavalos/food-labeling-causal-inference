@@ -76,7 +76,7 @@ The repository is kept intentionally flat for maximum reproducibility:
 
 This paper is currently **under review** at the *Journal of the Royal Statistical Society*. Citation details will be updated upon publication.
 
-> Avalos-Valdebenito, C. (2026). *Generalizing food labeling effects on calorie choices: A doubly-robust TMLE-BART approach with synthetic cognition augmentation*. Manuscript submitted for publication in the Journal of the Royal Statistical Society.
+> Avalos-Valdebenito, C. (2026). *Generalizing Food Labelling Trials under Unmeasured Confounding: A Doubly Robust BART Approach with Synthetic Cognitive Proxies*. Manuscript submitted for publication in the Journal of the Royal Statistical Society.
 
 ---
 👤 **Author**: Constanza Avalos-Valdebenito
